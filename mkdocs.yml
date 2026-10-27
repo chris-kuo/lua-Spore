@@ -1,0 +1,17 @@
+site_name: lua-Spore
+site_description: a generic ReST client
+site_author: François Perrad
+site_url: https://fperrad.frama.io/lua-Spore
+repo_url: https://framagit.org/fperrad/lua-Spore
+nav:
+- Home: index.md
+- API:
+  - Spore: spore.md
+  - Spore.Middleware: middleware.md
+  - Spore.GoogleDiscovery: discovery.md
+  - Spore.OpenAPI: openapi.md
+  - Spore.RAML: raml.md
+  - Spore.Swagger: swagger.md
+  - Spore.WADL: wadl.md
+theme: mkdocs
+copyright: Copyright &copy; 2010-2025 Fran&ccedil;ois Perrad
